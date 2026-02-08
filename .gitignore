@@ -214,3 +214,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Terraform & Terragrunt
+.terraform/
+.terragrunt-cache/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
