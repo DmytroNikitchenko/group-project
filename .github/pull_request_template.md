@@ -1,4 +1,6 @@
-**Description**: 
+**Description**: [description]
 
-- [] Tested locally
-- [] No hardcoded secrets
+**Notion ticket**: [Link]()
+
+- [ ] Tested locally
+- [ ] No hardcoded secrets
